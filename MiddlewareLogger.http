@@ -1,0 +1,6 @@
+@MiddlewareLogger_HostAddress = http://localhost:5079
+
+GET {{MiddlewareLogger_HostAddress}}/api/message
+Accept: application/json
+
+###
