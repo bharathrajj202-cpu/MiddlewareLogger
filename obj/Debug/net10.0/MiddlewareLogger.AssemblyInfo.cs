@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiddlewareLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+479dfc26db08865a69fcdcb350cb706849fb79b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiddlewareLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiddlewareLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
